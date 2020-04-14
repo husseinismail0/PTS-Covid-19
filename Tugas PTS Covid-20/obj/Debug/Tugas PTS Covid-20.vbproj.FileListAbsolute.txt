@@ -1,0 +1,13 @@
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\bin\Debug\Tugas PTS Covid-20.exe.config
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\bin\Debug\Tugas PTS Covid-20.exe
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\bin\Debug\Tugas PTS Covid-20.pdb
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\bin\Debug\Tugas PTS Covid-20.xml
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas_PTS_Covid_20.Form1.resources
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas_PTS_Covid_20.Resources.resources
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas PTS Covid-20.vbproj.GenerateResource.Cache
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas PTS Covid-20.exe
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas PTS Covid-20.xml
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas PTS Covid-20.pdb
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas_PTS_Covid_20.Loading_Screen.resources
+D:\Kodingan\Tugas PTS Covid-20\Tugas PTS Covid-20\obj\Debug\Tugas PTS Covid-20.vbprojResolveAssemblyReference.cache
